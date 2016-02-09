@@ -1,0 +1,23 @@
+<%= render 'header_menu' %>
+ 
+<div class="wrapper">
+  <div class="content">
+    <div class="buttons_container">
+        <%= link_to "Back", articles_path, class: "back_link" %>
+        <%= link_to "Edit", edit_article_path(@article), class: 'edit_link', method: 'get' %>
+    </div>
+
+    <div class="article_container">
+      <h1>Title</h1>
+        <h3><%= @article.title %><h3>
+      <h1>Text: </h1>
+        <h3><%= @article.text %><h3>
+      <h1>Category</h1>
+        <h3><%= @article.category %><h3>
+      <h1>Subcategory</h1>
+        <h3><%= @article.sub_category %><h3>
+    </div>
+  </div>
+</div>
+
+<img src=<%= @article.avatar.url %>  style="width: 720px; height: 480px; border-radius: 50px"/>

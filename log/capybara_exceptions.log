@@ -1,0 +1,543 @@
+# Logfile created on 2015-08-08 23:04:09 +0300 by logger.rb/47272
+D, [2015-08-14T13:33:02.798381 #30606] DEBUG -- : undefined local variable or method `article_destroy_all_path' for #<#<Class:0x007f992b4928b8>:0x007f992b491df0>
+D, [2015-08-14T13:33:02.799891 #30606] DEBUG -- : ["app/views/articles/index.html.erb:54:in `_app_views_articles_index_html_erb___1234186899224651762_70147889304280'"]
+D, [2015-08-14T13:39:36.691338 #30606] DEBUG -- : undefined local variable or method `article_destroy_all_path' for #<#<Class:0x007f9921f1ede0>:0x007f992329ae50>
+D, [2015-08-14T13:39:36.692406 #30606] DEBUG -- : ["app/views/articles/index.html.erb:54:in `_app_views_articles_index_html_erb___1234186899224651762_70147930868000'"]
+D, [2015-08-14T14:18:29.347878 #30606] DEBUG -- : undefined method `each' for nil:NilClass
+D, [2015-08-14T14:18:29.349424 #30606] DEBUG -- : ["app/views/users/index.html.erb:21:in `_app_views_users_index_html_erb___486470783427718814_70147907244900'"]
+D, [2015-08-14T14:21:35.120225 #30606] DEBUG -- : undefined method `eq?' for nil:NilClass
+D, [2015-08-14T14:21:35.121444 #30606] DEBUG -- : ["app/views/users/index.html.erb:34:in `block in _app_views_users_index_html_erb___486470783427718814_70147880586780'", "app/views/users/index.html.erb:22:in `_app_views_users_index_html_erb___486470783427718814_70147880586780'"]
+D, [2015-08-14T14:21:44.641154 #30606] DEBUG -- : undefined method `eq?' for nil:NilClass
+D, [2015-08-14T14:21:44.642015 #30606] DEBUG -- : ["app/views/users/index.html.erb:34:in `block in _app_views_users_index_html_erb___486470783427718814_70147916089240'", "app/views/users/index.html.erb:22:in `_app_views_users_index_html_erb___486470783427718814_70147916089240'"]
+D, [2015-08-14T14:28:13.428261 #30606] DEBUG -- : No route matches {:action=>"edit", :controller=>"users"} missing required keys: [:id]
+D, [2015-08-14T14:28:13.429572 #30606] DEBUG -- : ["app/views/users/index.html.erb:35:in `block in _app_views_users_index_html_erb___486470783427718814_70147883597160'", "app/views/users/index.html.erb:22:in `_app_views_users_index_html_erb___486470783427718814_70147883597160'"]
+D, [2015-08-14T14:29:07.330041 #30606] DEBUG -- : No route matches {:action=>"show", :controller=>"users"} missing required keys: [:id]
+D, [2015-08-14T14:29:07.331572 #30606] DEBUG -- : ["app/views/users/index.html.erb:35:in `block in _app_views_users_index_html_erb___486470783427718814_70147906250500'", "app/views/users/index.html.erb:22:in `_app_views_users_index_html_erb___486470783427718814_70147906250500'"]
+D, [2015-08-14T14:30:32.015654 #30606] DEBUG -- : No route matches {:action=>"show", :controller=>"users"} missing required keys: [:id]
+D, [2015-08-14T14:30:32.016762 #30606] DEBUG -- : ["app/views/users/index.html.erb:35:in `block in _app_views_users_index_html_erb___486470783427718814_70147915203700'", "app/views/users/index.html.erb:22:in `_app_views_users_index_html_erb___486470783427718814_70147915203700'"]
+D, [2015-08-14T14:31:07.190893 #30606] DEBUG -- : No route matches {:action=>"show", :controller=>"users"} missing required keys: [:id]
+D, [2015-08-14T14:31:07.192182 #30606] DEBUG -- : ["app/views/users/index.html.erb:35:in `block in _app_views_users_index_html_erb___486470783427718814_70147907658620'", "app/views/users/index.html.erb:22:in `_app_views_users_index_html_erb___486470783427718814_70147907658620'"]
+D, [2015-08-14T14:32:11.316580 #30606] DEBUG -- : No route matches {:action=>"show", :controller=>"users"} missing required keys: [:id]
+D, [2015-08-14T14:32:11.317465 #30606] DEBUG -- : ["app/views/users/index.html.erb:35:in `block in _app_views_users_index_html_erb___486470783427718814_70147874258520'", "app/views/users/index.html.erb:22:in `_app_views_users_index_html_erb___486470783427718814_70147874258520'"]
+D, [2015-08-14T14:32:57.345138 #30606] DEBUG -- : No route matches {:action=>"show", :controller=>"users"} missing required keys: [:id]
+D, [2015-08-14T14:32:57.346823 #30606] DEBUG -- : ["app/views/users/index.html.erb:35:in `block in _app_views_users_index_html_erb___486470783427718814_70147874258520'", "app/views/users/index.html.erb:22:in `_app_views_users_index_html_erb___486470783427718814_70147874258520'"]
+D, [2015-08-14T14:34:14.907785 #30606] DEBUG -- : No route matches {:action=>"show", :controller=>"users"} missing required keys: [:id]
+D, [2015-08-14T14:34:14.908916 #30606] DEBUG -- : ["app/views/users/index.html.erb:35:in `block in _app_views_users_index_html_erb___486470783427718814_70147874258520'", "app/views/users/index.html.erb:22:in `_app_views_users_index_html_erb___486470783427718814_70147874258520'"]
+D, [2015-08-14T14:34:27.643622 #30606] DEBUG -- : No route matches {:action=>"show", :controller=>"users"} missing required keys: [:id]
+D, [2015-08-14T14:34:27.646000 #30606] DEBUG -- : ["app/views/users/index.html.erb:35:in `block in _app_views_users_index_html_erb___486470783427718814_70147874258520'", "app/views/users/index.html.erb:22:in `_app_views_users_index_html_erb___486470783427718814_70147874258520'"]
+D, [2015-08-14T14:36:27.915105 #30606] DEBUG -- : No route matches {:action=>"show", :controller=>"users"} missing required keys: [:id]
+D, [2015-08-14T14:36:27.916522 #30606] DEBUG -- : ["app/views/users/index.html.erb:35:in `block in _app_views_users_index_html_erb___486470783427718814_70147906500360'", "app/views/users/index.html.erb:22:in `_app_views_users_index_html_erb___486470783427718814_70147906500360'"]
+D, [2015-08-14T15:16:03.393980 #30606] DEBUG -- : Missing template users/update, application/update with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views"
+
+D, [2015-08-14T15:16:03.394955 #30606] DEBUG -- : []
+D, [2015-08-14T15:32:20.747179 #30606] DEBUG -- : undefined method `name' for #<ActionView::Helpers::FormBuilder:0x007f9927661c60>
+D, [2015-08-14T15:32:20.748125 #30606] DEBUG -- : ["app/views/users/show.html.erb:5:in `block in _app_views_users_show_html_erb__375475540765464423_70147889546280'", "app/views/users/show.html.erb:3:in `_app_views_users_show_html_erb__375475540765464423_70147889546280'"]
+D, [2015-08-14T15:32:21.098113 #30606] DEBUG -- : undefined method `name' for #<ActionView::Helpers::FormBuilder:0x007f99215e3a00>
+D, [2015-08-14T15:32:21.098961 #30606] DEBUG -- : ["app/views/users/show.html.erb:5:in `block in _app_views_users_show_html_erb__375475540765464423_70147833694880'", "app/views/users/show.html.erb:3:in `_app_views_users_show_html_erb__375475540765464423_70147833694880'"]
+D, [2015-08-14T15:33:00.737549 #30606] DEBUG -- : undefined method `name' for #<ActionView::Helpers::FormBuilder:0x007f9923371b80>
+D, [2015-08-14T15:33:00.738484 #30606] DEBUG -- : ["app/views/users/show.html.erb:5:in `block in _app_views_users_show_html_erb__375475540765464423_70147849699520'", "app/views/users/show.html.erb:3:in `_app_views_users_show_html_erb__375475540765464423_70147849699520'"]
+D, [2015-08-14T15:33:25.141764 #30606] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/users/show.html.erb:44: syntax error, unexpected keyword_ensure, expecting end-of-input
+D, [2015-08-14T15:33:25.142933 #30606] DEBUG -- : []
+D, [2015-08-14T15:33:55.969288 #30606] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/users/show.html.erb:44: syntax error, unexpected keyword_ensure, expecting end-of-input
+D, [2015-08-14T15:33:55.970448 #30606] DEBUG -- : []
+D, [2015-08-14T15:34:02.009656 #30606] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/users/show.html.erb:44: syntax error, unexpected keyword_ensure, expecting end-of-input
+D, [2015-08-14T15:34:02.010501 #30606] DEBUG -- : []
+D, [2015-08-14T15:34:29.407124 #30606] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/users/show.html.erb:44: syntax error, unexpected keyword_ensure, expecting end-of-input
+D, [2015-08-14T15:34:29.408298 #30606] DEBUG -- : []
+D, [2015-08-14T15:35:14.725207 #30606] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/users/show.html.erb:44: syntax error, unexpected keyword_ensure, expecting end-of-input
+D, [2015-08-14T15:35:14.726306 #30606] DEBUG -- : []
+D, [2015-08-14T15:36:33.818653 #30606] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/users/show.html.erb:44: syntax error, unexpected keyword_ensure, expecting end-of-input
+D, [2015-08-14T15:36:33.819762 #30606] DEBUG -- : []
+D, [2015-08-14T15:39:28.209466 #30606] DEBUG -- : undefined local variable or method `user' for #<#<Class:0x007f992848b9d0>:0x007f99277242b0>
+D, [2015-08-14T15:39:28.210643 #30606] DEBUG -- : ["app/views/users/show.html.erb:6:in `_app_views_users_show_html_erb__375475540765464423_70147919804280'"]
+D, [2015-08-14T16:23:58.464136 #30606] DEBUG -- : undefined local variable or method `user' for #<#<Class:0x007f992848b9d0>:0x007f992a5c3d28>
+D, [2015-08-14T16:23:58.465458 #30606] DEBUG -- : ["app/views/users/show.html.erb:6:in `_app_views_users_show_html_erb__375475540765464423_70147919804280'"]
+D, [2015-08-14T17:42:29.615163 #30606] DEBUG -- : undefined local variable or method `article_destroy_all_path' for #<#<Class:0x007f99283c2300>:0x007f99283c15e0>
+D, [2015-08-14T17:42:29.616050 #30606] DEBUG -- : ["app/views/articles/index.html.erb:56:in `_app_views_articles_index_html_erb___1234186899224651762_70147919919460'"]
+D, [2015-08-14T17:42:49.547273 #30606] DEBUG -- : undefined local variable or method `articles_destroy_all_path' for #<#<Class:0x007f99283c2300>:0x007f99232a7a88>
+D, [2015-08-14T17:42:49.548484 #30606] DEBUG -- : ["app/views/articles/index.html.erb:56:in `_app_views_articles_index_html_erb___1234186899224651762_70147848352180'"]
+D, [2015-08-14T17:42:51.566913 #30606] DEBUG -- : undefined local variable or method `articles_destroy_all_path' for #<#<Class:0x007f99283c2300>:0x007f99275e4148>
+D, [2015-08-14T17:42:51.568018 #30606] DEBUG -- : ["app/views/articles/index.html.erb:56:in `_app_views_articles_index_html_erb___1234186899224651762_70147848352180'"]
+D, [2015-08-14T17:43:28.634521 #30606] DEBUG -- : undefined local variable or method `articles_destroy_all_path' for #<#<Class:0x007f992c85a3c8>:0x007f992c859900>
+D, [2015-08-14T17:43:28.635734 #30606] DEBUG -- : ["app/views/articles/index.html.erb:56:in `_app_views_articles_index_html_erb___1234186899224651762_70147848352180'"]
+D, [2015-08-14T17:45:45.906120 #30606] DEBUG -- : undefined local variable or method `articles_destroy_all_path' for #<#<Class:0x007f992a2a8120>:0x007f9922553508>
+D, [2015-08-14T17:45:45.907666 #30606] DEBUG -- : ["app/views/articles/index.html.erb:56:in `_app_views_articles_index_html_erb___1234186899224651762_70147841364100'"]
+D, [2015-08-14T18:01:19.639093 #31954] DEBUG -- : Cannot redirect to nil!
+D, [2015-08-14T18:01:19.639962 #31954] DEBUG -- : ["app/controllers/articles_controller.rb:38:in `update'"]
+D, [2015-08-14T21:13:32.595279 #32353] DEBUG -- : undefined method `authenticate_wellcome!' for #<WelcomeController:0x007fe3d5171b30>
+D, [2015-08-14T21:13:32.596465 #32353] DEBUG -- : []
+D, [2015-08-14T21:18:35.097256 #32353] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/show.html.erb:73: syntax error, unexpected keyword_ensure, expecting keyword_end
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/show.html.erb:75: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2015-08-14T21:18:35.098461 #32353] DEBUG -- : []
+D, [2015-08-14T21:18:35.502662 #32353] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/show.html.erb:73: syntax error, unexpected keyword_ensure, expecting keyword_end
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/show.html.erb:75: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2015-08-14T21:18:35.503608 #32353] DEBUG -- : []
+D, [2015-08-15T19:43:46.809577 #32353] DEBUG -- : Cannot redirect to nil!
+D, [2015-08-15T19:43:46.811711 #32353] DEBUG -- : ["app/controllers/articles_controller.rb:36:in `update'"]
+D, [2015-08-15T19:44:15.857265 #32353] DEBUG -- : Cannot redirect to nil!
+D, [2015-08-15T19:44:15.858094 #32353] DEBUG -- : ["app/controllers/articles_controller.rb:36:in `update'"]
+D, [2015-09-22T23:58:34.365286 #19576] DEBUG -- : Asset filtered out and will not be served: add `Rails.application.config.assets.precompile += %w( style.css )` to `config/initializers/assets.rb` and restart your server
+D, [2015-09-22T23:58:34.366875 #19576] DEBUG -- : ["app/views/articles/index.html.erb:1:in `_app_views_articles_index_html_erb__1457762565707073578_70241433309800'"]
+D, [2015-09-22T23:59:36.268312 #19576] DEBUG -- : Asset filtered out and will not be served: add `Rails.application.config.assets.precompile += %w( articles_style.css )` to `config/initializers/assets.rb` and restart your server
+D, [2015-09-22T23:59:36.269468 #19576] DEBUG -- : ["app/views/articles/index.html.erb:1:in `_app_views_articles_index_html_erb__1457762565707073578_70241407393680'"]
+D, [2015-09-23T00:00:45.456285 #19576] DEBUG -- : Asset filtered out and will not be served: add `Rails.application.config.assets.precompile += %w( articles_style.css )` to `config/initializers/assets.rb` and restart your server
+D, [2015-09-23T00:00:45.457202 #19576] DEBUG -- : ["app/views/articles/index.html.erb:1:in `_app_views_articles_index_html_erb__1457762565707073578_70241407393680'"]
+D, [2015-09-23T00:01:13.127371 #19576] DEBUG -- : Asset filtered out and will not be served: add `Rails.application.config.assets.precompile += %w( articles_style.css )` to `config/initializers/assets.rb` and restart your server
+D, [2015-09-23T00:01:13.129792 #19576] DEBUG -- : ["app/views/articles/index.html.erb:1:in `_app_views_articles_index_html_erb__1457762565707073578_70241407393680'"]
+D, [2015-09-23T00:02:22.657526 #19576] DEBUG -- : Asset filtered out and will not be served: add `Rails.application.config.assets.precompile += %w( articles_style.css )` to `config/initializers/assets.rb` and restart your server
+D, [2015-09-23T00:02:22.658611 #19576] DEBUG -- : ["app/views/articles/index.html.erb:1:in `_app_views_articles_index_html_erb__1457762565707073578_70241430362680'"]
+D, [2015-09-23T00:04:47.488298 #19576] DEBUG -- : Asset filtered out and will not be served: add `Rails.application.config.assets.precompile += %w( articles_style.css )` to `config/initializers/assets.rb` and restart your server
+D, [2015-09-23T00:04:47.489104 #19576] DEBUG -- : ["app/views/articles/index.html.erb:1:in `_app_views_articles_index_html_erb__1457762565707073578_70241457635340'"]
+D, [2015-09-23T00:09:25.097974 #20384] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:25: syntax error, unexpected '=', expecting =>
+...ton-success pure-button", :id = "better", method: 'get' );@o...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:25: syntax error, unexpected ',', expecting ')'
+...s pure-button", :id = "better", method: 'get' );@output_buff...
+...                               ^
+D, [2015-09-23T00:09:25.099713 #20384] DEBUG -- : []
+D, [2015-09-23T00:47:11.519608 #20384] DEBUG -- : wrong number of arguments (4 for 0..3)
+D, [2015-09-23T00:47:11.520515 #20384] DEBUG -- : ["app/views/articles/index.html.erb:28:in `_app_views_articles_index_html_erb___1965994105509510010_70162767818880'"]
+D, [2015-09-23T00:47:48.664653 #20384] DEBUG -- : wrong number of arguments (5 for 0..3)
+D, [2015-09-23T00:47:48.665559 #20384] DEBUG -- : ["app/views/articles/index.html.erb:28:in `_app_views_articles_index_html_erb___1965994105509510010_70162800442420'"]
+D, [2015-09-23T00:48:01.086582 #20384] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:28: syntax error, unexpected ')', expecting =>
+...od: 'get', { class: "button"} );@output_buffer.safe_append='
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:37: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:39: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-09-23T00:48:01.087564 #20384] DEBUG -- : []
+D, [2015-09-23T15:54:44.444513 #20384] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:16: syntax error, unexpected ':', expecting ')'
+... article_path(article), :class: 'articles_name' );@output_bu...
+...                               ^
+D, [2015-09-23T15:54:44.453743 #20384] DEBUG -- : []
+D, [2015-09-24T17:19:17.255624 #5514] DEBUG -- : undefined local variable or method `form' for #<#<Class:0x007f8a65b2a538>:0x007f8a6c9dcad0>
+D, [2015-09-24T17:19:17.256990 #5514] DEBUG -- : ["app/views/articles/_form.html.erb:27:in `block in _app_views_articles__form_html_erb___667651462936697708_70116238769400'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___667651462936697708_70116238769400'", "app/views/articles/new.html.erb:3:in `_app_views_articles_new_html_erb__192790622846097935_70116230984540'"]
+D, [2015-09-24T17:20:49.153987 #5514] DEBUG -- : Article model missing required attr_accessor for 'avatar_file_name'
+D, [2015-09-24T17:20:49.155344 #5514] DEBUG -- : ["app/controllers/articles_controller.rb:35:in `update'"]
+D, [2015-09-24T17:22:27.593348 #5514] DEBUG -- : Article model missing required attr_accessor for 'avatar_file_name'
+D, [2015-09-24T17:22:27.594257 #5514] DEBUG -- : ["app/controllers/articles_controller.rb:35:in `update'"]
+D, [2015-09-24T17:22:36.927297 #5514] DEBUG -- : Article model missing required attr_accessor for 'avatar_file_name'
+D, [2015-09-24T17:22:36.928518 #5514] DEBUG -- : ["app/controllers/articles_controller.rb:35:in `update'"]
+D, [2015-09-24T17:30:07.460025 #5720] DEBUG -- : undefined method `url' for #<Article:0x007fa904e765f8>
+D, [2015-09-24T17:30:07.461062 #5720] DEBUG -- : ["app/views/articles/index.html.erb:28:in `block in _app_views_articles_index_html_erb__2321737869417066620_70181886347860'", "app/views/articles/index.html.erb:25:in `_app_views_articles_index_html_erb__2321737869417066620_70181886347860'"]
+D, [2015-09-24T17:33:47.386307 #5720] DEBUG -- : undefined method `symbolize_keys' for "/articles/4":String
+D, [2015-09-24T17:33:47.387285 #5720] DEBUG -- : ["app/views/articles/index.html.erb:28:in `block in _app_views_articles_index_html_erb__2321737869417066620_70181954396520'", "app/views/articles/index.html.erb:25:in `_app_views_articles_index_html_erb__2321737869417066620_70181954396520'"]
+D, [2015-09-24T17:34:57.977065 #5720] DEBUG -- : undefined method `symbolize_keys' for "/articles/4":String
+D, [2015-09-24T17:34:57.978136 #5720] DEBUG -- : ["app/views/articles/index.html.erb:28:in `block in _app_views_articles_index_html_erb__2321737869417066620_70181884367360'", "app/views/articles/index.html.erb:25:in `_app_views_articles_index_html_erb__2321737869417066620_70181884367360'"]
+D, [2015-09-25T17:59:28.602527 #5720] DEBUG -- : undefined method `field' for #<ActionView::Helpers::FormBuilder:0x007fa90352a4c8>
+D, [2015-09-25T17:59:28.604441 #5720] DEBUG -- : ["app/views/articles/_form.html.erb:18:in `block in _app_views_articles__form_html_erb___3922730927449015433_70181951446040'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___3922730927449015433_70181951446040'", "app/views/articles/edit.html.erb:3:in `_app_views_articles_edit_html_erb__3609944992566459278_70181963989240'"]
+D, [2015-09-25T18:00:10.746674 #5720] DEBUG -- : undefined method `merge' for "WTF":String
+D, [2015-09-25T18:00:10.748580 #5720] DEBUG -- : ["app/views/articles/_form.html.erb:23:in `block in _app_views_articles__form_html_erb___3922730927449015433_70181942001140'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___3922730927449015433_70181942001140'", "app/views/articles/edit.html.erb:3:in `_app_views_articles_edit_html_erb__3609944992566459278_70181963989240'"]
+D, [2015-09-25T18:07:04.383840 #5720] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:7: syntax error, unexpected =>, expecting ')'
+...uffer.append=( @article.name => article</h1>
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:8: unknown regexp options - dv
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:9: syntax error, unexpected '<'
+</div>
+ ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:18: unknown regexp option - p
+unmatched close parenthesis: /div>
+
+ 
+    <%= f.label :title );@output_buffer.safe_append='
+    '.freeze;@output_buffer.append=( f.text_field :title );@output_buffer.safe_append='
+    
+    '.freeze;@output_buffer.append=( f.label :text );@output_buffer.safe_append='
+    '.freeze;@output_buffer.append=( f.text_area :text );@output_buffer.safe_append='
+
+    <p>'.freeze;@output_buffer.append=( f.file_field :avatar );@output_buffer.safe_append=' </
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:24: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+@output_buffer.safe_append='    <div id="error_explanation">
+                                       ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:25: syntax error, unexpected '<'
+      <h2>
+       ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:26: syntax error, unexpected tIDENTIFIER, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:28: syntax error, unexpected '<'
+      </h2>
+       ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:31: unknown regexp option - l
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:34: unknown regexp options - dv
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:37: unterminated string meets end of file
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:37: syntax error, unexpected end-of-input, expecting ')'
+D, [2015-09-25T18:07:04.385218 #5720] DEBUG -- : ["app/views/articles/edit.html.erb:3:in `_app_views_articles_edit_html_erb__3609944992566459278_70181963989240'"]
+D, [2015-09-25T18:07:27.347317 #5720] DEBUG -- : undefined method `name' for #<Article:0x007fa9061a32e8>
+D, [2015-09-25T18:07:27.348442 #5720] DEBUG -- : ["app/views/articles/_form.html.erb:7:in `block in _app_views_articles__form_html_erb___3922730927449015433_70181954792080'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___3922730927449015433_70181954792080'", "app/views/articles/edit.html.erb:3:in `_app_views_articles_edit_html_erb__3609944992566459278_70181963989240'"]
+D, [2015-09-25T18:12:27.073495 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:7: syntax error, unexpected =>, expecting :: or '[' or '.'
+...end=( @article.title, :style => "color: red" );@output_buffe...
+...                               ^
+D, [2015-09-25T18:12:27.074807 #8439] DEBUG -- : ["app/views/articles/edit.html.erb:1:in `_app_views_articles_edit_html_erb__2380379528398890877_70246297208660'"]
+D, [2015-09-28T20:57:28.927095 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+... article_path(article) <img src=<%= article.avatar.url );@ou...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:50: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;         end 
+                     ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:58: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:60: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-09-28T20:57:28.936541 #8439] DEBUG -- : []
+D, [2015-09-28T20:57:48.073483 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+... article_path(article) <img src=<%= article.avatar.url  styl...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected '>'
+...e="width: 75px; height: 50px"/> );@output_buffer.safe_append...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:50: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;         end 
+                     ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:58: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:60: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-09-28T20:57:48.074937 #8439] DEBUG -- : []
+D, [2015-09-28T20:58:01.109717 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+... article_path(article) <img src=<%= article.avatar.url, styl...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected '>'
+...e="width: 75px; height: 50px"/> );@output_buffer.safe_append...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:50: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;         end 
+                     ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:58: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:60: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-09-28T20:58:01.111325 #8439] DEBUG -- : []
+D, [2015-09-28T20:58:02.663788 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+... article_path(article) <img src=<%= article.avatar.url, styl...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected '>'
+...e="width: 75px; height: 50px"/> );@output_buffer.safe_append...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:50: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;         end 
+                     ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:58: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:60: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-09-28T20:58:02.665562 #8439] DEBUG -- : []
+D, [2015-09-28T20:58:26.282097 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+... article_path(article) <img src=<%= article.avatar.url, styl...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected '>'
+...="width: 75px; height: 50px" /> );@output_buffer.safe_append...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:50: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;         end 
+                     ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:58: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:60: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-09-28T20:58:26.283056 #8439] DEBUG -- : []
+D, [2015-09-28T20:58:58.946697 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+... article_path(article) <img src=<%= article.avatar.url, :sty...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected '>'
+... "width: 75px; height: 50px" /> );@output_buffer.safe_append...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:50: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;         end 
+                     ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:58: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:60: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-09-28T20:58:58.947735 #8439] DEBUG -- : []
+D, [2015-09-28T20:59:00.473111 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+... article_path(article) <img src=<%= article.avatar.url, :sty...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected '>'
+... "width: 75px; height: 50px" /> );@output_buffer.safe_append...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:50: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;         end 
+                     ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:58: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:60: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-09-28T20:59:00.474478 #8439] DEBUG -- : []
+D, [2015-09-28T20:59:28.679503 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected '>'
+...e="width: 75px; height: 50px"/> <%= link_to article_path(art...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:50: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;         end 
+                     ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:58: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:60: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-09-28T20:59:28.680935 #8439] DEBUG -- : []
+D, [2015-09-28T20:59:36.547700 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:43: syntax error, unexpected '>'
+...e="width: 75px; height: 50px"/> <%= link_to article_path(art...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:50: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;         end 
+                     ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:58: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:60: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-09-28T20:59:36.548733 #8439] DEBUG -- : []
+D, [2015-09-28T22:33:21.094657 #8439] DEBUG -- : undefined method `input_field' for #<ActionView::Helpers::FormBuilder:0x007fc6fef3f350>
+D, [2015-09-28T22:33:21.095766 #8439] DEBUG -- : ["app/views/articles/_form.html.erb:12:in `block in _app_views_articles__form_html_erb___775029163505121809_70246328890980'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___775029163505121809_70246328890980'", "app/views/articles/edit.html.erb:3:in `_app_views_articles_edit_html_erb__2380379528398890877_70246348537580'"]
+D, [2015-09-28T22:33:35.655570 #8439] DEBUG -- : undefined method `text' for #<ActionView::Helpers::FormBuilder:0x007fc700d44760>
+D, [2015-09-28T22:33:35.657453 #8439] DEBUG -- : ["app/views/articles/_form.html.erb:12:in `block in _app_views_articles__form_html_erb___775029163505121809_70246348926920'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___775029163505121809_70246348926920'", "app/views/articles/edit.html.erb:3:in `_app_views_articles_edit_html_erb__2380379528398890877_70246348537580'"]
+D, [2015-09-28T22:39:48.193355 #8439] DEBUG -- : undefined local variable or method `form' for #<#<Class:0x007fc700b14d00>:0x007fc703b58548>
+D, [2015-09-28T22:39:48.194788 #8439] DEBUG -- : ["app/views/articles/_form.html.erb:15:in `block in _app_views_articles__form_html_erb___775029163505121809_70246367171960'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___775029163505121809_70246367171960'", "app/views/articles/edit.html.erb:3:in `_app_views_articles_edit_html_erb__2380379528398890877_70246348537580'"]
+D, [2015-09-28T22:39:59.619611 #8439] DEBUG -- : undefined local variable or method `form' for #<#<Class:0x007fc700b14d00>:0x007fc700cf71b8>
+D, [2015-09-28T22:39:59.621136 #8439] DEBUG -- : ["app/views/articles/_form.html.erb:15:in `block in _app_views_articles__form_html_erb___775029163505121809_70246344354600'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___775029163505121809_70246344354600'", "app/views/articles/edit.html.erb:3:in `_app_views_articles_edit_html_erb__2380379528398890877_70246348537580'"]
+D, [2015-09-28T22:40:16.354118 #8439] DEBUG -- : undefined method `paid' for #<Article:0x007fc6fbbf7038>
+D, [2015-09-28T22:40:16.355208 #8439] DEBUG -- : ["app/views/articles/_form.html.erb:15:in `block in _app_views_articles__form_html_erb___775029163505121809_70246348106060'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___775029163505121809_70246348106060'", "app/views/articles/edit.html.erb:3:in `_app_views_articles_edit_html_erb__2380379528398890877_70246348537580'"]
+D, [2015-09-28T23:11:19.147290 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:30: syntax error, unexpected keyword_ensure, expecting keyword_end
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:32: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2015-09-28T23:11:19.148479 #8439] DEBUG -- : ["app/views/articles/edit.html.erb:3:in `_app_views_articles_edit_html_erb__2380379528398890877_70246348537580'"]
+D, [2015-09-28T23:14:59.946135 #8439] DEBUG -- : undefined method `back' for #<ActionView::Helpers::FormBuilder:0x007fc6fb2fb290>
+D, [2015-09-28T23:14:59.947236 #8439] DEBUG -- : ["app/views/articles/_form.html.erb:6:in `block in _app_views_articles__form_html_erb___775029163505121809_70246297340720'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___775029163505121809_70246297340720'", "app/views/articles/edit.html.erb:3:in `_app_views_articles_edit_html_erb__2380379528398890877_70246348537580'"]
+D, [2015-09-28T23:21:58.328879 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:7: syntax error, unexpected tLABEL, expecting '='
+...uffer.append=( f.submit, class: "action_with_article_link" )...
+...                               ^
+D, [2015-09-28T23:21:58.330086 #8439] DEBUG -- : ["app/views/articles/new.html.erb:3:in `_app_views_articles_new_html_erb___3627540212523911339_70246345615260'"]
+D, [2015-09-28T23:22:20.591383 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:7: syntax error, unexpected =>, expecting :: or '[' or '.'
+...er.append=( f.submit, :class => "action_with_article_link" )...
+...                               ^
+D, [2015-09-28T23:22:20.592521 #8439] DEBUG -- : ["app/views/articles/new.html.erb:3:in `_app_views_articles_new_html_erb___3627540212523911339_70246345615260'"]
+D, [2015-09-28T23:22:41.408704 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:7: syntax error, unexpected tLABEL, expecting '='
+...uffer.append=( f.submit, class: "action_with_article_link" )...
+...                               ^
+D, [2015-09-28T23:22:41.410519 #8439] DEBUG -- : ["app/views/articles/new.html.erb:3:in `_app_views_articles_new_html_erb___3627540212523911339_70246345615260'"]
+D, [2015-09-28T23:23:29.207035 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:7: syntax error, unexpected tLABEL, expecting '='
+...uffer.append=( f.submit, class: "action_with_article_link" )...
+...                               ^
+D, [2015-09-28T23:23:29.209032 #8439] DEBUG -- : ["app/views/articles/new.html.erb:3:in `_app_views_articles_new_html_erb___3627540212523911339_70246345615260'"]
+D, [2015-09-28T23:24:50.286679 #8439] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:7: syntax error, unexpected tLABEL, expecting '='
+...uffer.append=( f.submit, class: "action_with_article_link" )...
+...                               ^
+D, [2015-09-28T23:24:50.287837 #8439] DEBUG -- : ["app/views/articles/new.html.erb:3:in `_app_views_articles_new_html_erb___3627540212523911339_70246345615260'"]
+D, [2015-09-28T23:48:02.072855 #8439] DEBUG -- : wrong number of arguments (3 for 1..2)
+D, [2015-09-28T23:48:02.073953 #8439] DEBUG -- : ["app/views/articles/_form.html.erb:17:in `block in _app_views_articles__form_html_erb___775029163505121809_70246346154220'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___775029163505121809_70246346154220'", "app/views/articles/new.html.erb:21:in `_app_views_articles_new_html_erb___3627540212523911339_70246368171380'"]
+D, [2015-09-29T00:01:43.297366 #8439] DEBUG -- : undefined local variable or method `article' for #<#<Class:0x007fc700b14d00>:0x007fc7017005b0>
+D, [2015-09-29T00:01:43.298579 #8439] DEBUG -- : ["app/views/articles/edit.html.erb:22:in `_app_views_articles_edit_html_erb__2380379528398890877_70246348380380'"]
+D, [2015-09-29T00:08:36.837307 #8439] DEBUG -- : undefined local variable or method `article' for #<#<Class:0x007fc700b14d00>:0x007fc70175b708>
+D, [2015-09-29T00:08:36.838327 #8439] DEBUG -- : ["app/views/articles/show.html.erb:7:in `block in _app_views_articles_show_html_erb__2801575382784077502_70246349851600'", "app/views/articles/show.html.erb:1:in `_app_views_articles_show_html_erb__2801575382784077502_70246349851600'"]
+D, [2015-09-29T00:08:37.382847 #8439] DEBUG -- : undefined local variable or method `article' for #<#<Class:0x007fc700b14d00>:0x007fc701498ca0>
+D, [2015-09-29T00:08:37.383992 #8439] DEBUG -- : ["app/views/articles/show.html.erb:7:in `block in _app_views_articles_show_html_erb__2801575382784077502_70246348405480'", "app/views/articles/show.html.erb:1:in `_app_views_articles_show_html_erb__2801575382784077502_70246348405480'"]
+D, [2015-10-21T18:41:52.551424 #982] DEBUG -- : undefined method `title' for nil:NilClass
+D, [2015-10-21T18:41:52.552890 #982] DEBUG -- : ["app/views/articles/_header_menu.html.erb:2:in `_app_views_articles__header_menu_html_erb___710241775721025743_70304669080980'", "app/views/articles/index.html.erb:4:in `_app_views_articles_index_html_erb___81288601282508012_70304662710640'"]
+D, [2015-10-21T18:41:53.031685 #982] DEBUG -- : undefined method `title' for nil:NilClass
+D, [2015-10-21T18:41:53.032694 #982] DEBUG -- : ["app/views/articles/_header_menu.html.erb:2:in `_app_views_articles__header_menu_html_erb___710241775721025743_70304645646540'", "app/views/articles/index.html.erb:4:in `_app_views_articles_index_html_erb___81288601282508012_70304681002940'"]
+D, [2015-10-21T18:49:21.304558 #982] DEBUG -- : undefined method `title' for nil:NilClass
+D, [2015-10-21T18:49:21.306375 #982] DEBUG -- : ["app/views/articles/_header_menu.html.erb:2:in `_app_views_articles__header_menu_html_erb___710241775721025743_70304667962760'", "app/views/articles/index.html.erb:4:in `_app_views_articles_index_html_erb___81288601282508012_70304642043620'"]
+D, [2015-10-23T00:49:15.740600 #1114] DEBUG -- : undefined method `dropdown' for #<ActionView::Helpers::FormBuilder:0x007fa3825839f0>
+D, [2015-10-23T00:49:15.742396 #1114] DEBUG -- : ["app/views/articles/_form.html.erb:18:in `block in _app_views_articles__form_html_erb__4443026557000886366_70170045599280'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb__4443026557000886366_70170045599280'", "app/views/articles/new.html.erb:2:in `_app_views_articles_new_html_erb___2386133726921929043_70170079646920'"]
+D, [2015-10-23T00:49:57.108365 #1114] DEBUG -- : wrong number of arguments (2 for 4..6)
+D, [2015-10-23T00:49:57.109628 #1114] DEBUG -- : ["app/views/articles/_form.html.erb:18:in `block in _app_views_articles__form_html_erb__4443026557000886366_70170120304500'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb__4443026557000886366_70170120304500'", "app/views/articles/new.html.erb:2:in `_app_views_articles_new_html_erb___2386133726921929043_70170079646920'"]
+D, [2015-10-23T01:54:04.719375 #1114] DEBUG -- : Mysql2::Error: Unknown column 'categories.article_id' in 'where clause': SELECT  `categories`.* FROM `categories` WHERE `categories`.`article_id` = 9 LIMIT 1
+D, [2015-10-23T01:54:04.720825 #1114] DEBUG -- : ["app/views/articles/_form.html.erb:18:in `block in _app_views_articles__form_html_erb__4443026557000886366_70170053822100'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb__4443026557000886366_70170053822100'", "app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T01:55:52.461514 #1114] DEBUG -- : Mysql2::Error: Unknown column 'categories.article_id' in 'where clause': SELECT  `categories`.* FROM `categories` WHERE `categories`.`article_id` = 7 LIMIT 1
+D, [2015-10-23T01:55:52.462947 #1114] DEBUG -- : ["app/views/articles/_form.html.erb:18:in `block in _app_views_articles__form_html_erb__4443026557000886366_70170053822100'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb__4443026557000886366_70170053822100'", "app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T01:56:35.565816 #1114] DEBUG -- : Mysql2::Error: Unknown column 'categories.article_id' in 'where clause': SELECT  `categories`.* FROM `categories` WHERE `categories`.`article_id` = 7 LIMIT 1
+D, [2015-10-23T01:56:35.567026 #1114] DEBUG -- : ["app/views/articles/_form.html.erb:18:in `block in _app_views_articles__form_html_erb__4443026557000886366_70170053822100'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb__4443026557000886366_70170053822100'", "app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T01:56:39.350774 #1114] DEBUG -- : Mysql2::Error: Unknown column 'categories.article_id' in 'where clause': SELECT  `categories`.* FROM `categories` WHERE `categories`.`article_id` = 7 LIMIT 1
+D, [2015-10-23T01:56:39.352009 #1114] DEBUG -- : ["app/views/articles/_form.html.erb:18:in `block in _app_views_articles__form_html_erb__4443026557000886366_70170053822100'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb__4443026557000886366_70170053822100'", "app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T10:35:17.758802 #1114] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:21: syntax error, unexpected ')', expecting =>
+...ons_for_select("123", "1233") );@output_buffer.safe_append=' 
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:44: syntax error, unexpected keyword_end, expecting ')'
+'.freeze; end ;@output_buffer.to_s
+             ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:45: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:47: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-10-23T10:35:17.760829 #1114] DEBUG -- : ["app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T10:36:18.557723 #1114] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:21: syntax error, unexpected ')', expecting =>
+...s_for_select(["123", "1233"]) );@output_buffer.safe_append=' 
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:44: syntax error, unexpected keyword_end, expecting ')'
+'.freeze; end ;@output_buffer.to_s
+             ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:45: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:47: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-10-23T10:36:18.559180 #1114] DEBUG -- : ["app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T10:36:27.314034 #1114] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:21: syntax error, unexpected ')', expecting =>
+...for_select(["123"], ["1233"]) );@output_buffer.safe_append=' 
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:44: syntax error, unexpected keyword_end, expecting ')'
+'.freeze; end ;@output_buffer.to_s
+             ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:45: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:47: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-10-23T10:36:27.315910 #1114] DEBUG -- : ["app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T10:36:30.881208 #1114] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:21: syntax error, unexpected ')', expecting =>
+...for_select(["123"], ["1233"]) );@output_buffer.safe_append=' 
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:44: syntax error, unexpected keyword_end, expecting ')'
+'.freeze; end ;@output_buffer.to_s
+             ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:45: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_form.html.erb:47: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-10-23T10:36:30.882379 #1114] DEBUG -- : ["app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T10:41:17.907183 #1114] DEBUG -- : Couldn't find Subcategory with 'id'=all
+D, [2015-10-23T10:41:17.909858 #1114] DEBUG -- : ["app/views/articles/_form.html.erb:21:in `block in _app_views_articles__form_html_erb__4443026557000886366_70170132657560'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb__4443026557000886366_70170132657560'", "app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T10:41:28.486194 #1114] DEBUG -- : Couldn't find Subcategory with 'id'=all
+D, [2015-10-23T10:41:28.487566 #1114] DEBUG -- : ["app/views/articles/_form.html.erb:21:in `block in _app_views_articles__form_html_erb__4443026557000886366_70170049497180'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb__4443026557000886366_70170049497180'", "app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T10:44:54.707688 #1114] DEBUG -- : undefined method `empty?' for nil:NilClass
+D, [2015-10-23T10:44:54.708827 #1114] DEBUG -- : ["app/views/articles/_form.html.erb:18:in `block in _app_views_articles__form_html_erb__4443026557000886366_70170101033460'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb__4443026557000886366_70170101033460'", "app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T10:45:22.654014 #1114] DEBUG -- : Couldn't find Category with 'id'=all
+D, [2015-10-23T10:45:22.655501 #1114] DEBUG -- : ["app/views/articles/_form.html.erb:18:in `block in _app_views_articles__form_html_erb__4443026557000886366_70170080203500'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb__4443026557000886366_70170080203500'", "app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T10:46:29.370635 #1114] DEBUG -- : Couldn't find Subcategory with 'id'=all
+D, [2015-10-23T10:46:29.371930 #1114] DEBUG -- : ["app/views/articles/_form.html.erb:21:in `block in _app_views_articles__form_html_erb__4443026557000886366_70170046226600'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb__4443026557000886366_70170046226600'", "app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T10:46:41.475595 #1114] DEBUG -- : Couldn't find Subcategory without an ID
+D, [2015-10-23T10:46:41.476680 #1114] DEBUG -- : ["app/views/articles/_form.html.erb:21:in `block in _app_views_articles__form_html_erb__4443026557000886366_70170099704480'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb__4443026557000886366_70170099704480'", "app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T10:47:02.534722 #1114] DEBUG -- : Couldn't find Subcategory without an ID
+D, [2015-10-23T10:47:02.535764 #1114] DEBUG -- : ["app/views/articles/_form.html.erb:21:in `block in _app_views_articles__form_html_erb__4443026557000886366_70170127294340'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb__4443026557000886366_70170127294340'", "app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T10:48:43.849483 #1114] DEBUG -- : Couldn't find Subcategory without an ID
+D, [2015-10-23T10:48:43.850541 #1114] DEBUG -- : ["app/views/articles/_form.html.erb:21:in `block in _app_views_articles__form_html_erb__4443026557000886366_70170050349020'", "app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb__4443026557000886366_70170050349020'", "app/views/articles/edit.html.erb:2:in `_app_views_articles_edit_html_erb___614564772009163448_70170117285660'"]
+D, [2015-10-23T11:39:11.059907 #1114] DEBUG -- : undefined method `subcategory' for #<Article:0x007fa382058408>
+D, [2015-10-23T11:39:11.060757 #1114] DEBUG -- : ["app/views/articles/show.html.erb:19:in `_app_views_articles_show_html_erb___3498988661744100539_70170051130580'"]
+D, [2015-10-23T11:39:11.431838 #1114] DEBUG -- : undefined method `subcategory' for #<Article:0x007fa381dbd838>
+D, [2015-10-23T11:39:11.432662 #1114] DEBUG -- : ["app/views/articles/show.html.erb:19:in `_app_views_articles_show_html_erb___3498988661744100539_70170120453800'"]
+D, [2015-10-23T11:54:33.504225 #1114] DEBUG -- : undefined method `subcategory' for #<Article:0x007fa381e9f198>
+D, [2015-10-23T11:54:33.512980 #1114] DEBUG -- : ["app/views/articles/show.html.erb:18:in `_app_views_articles_show_html_erb___3498988661744100539_70170117991160'"]
+D, [2015-10-24T00:59:16.058585 #4390] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_header_menu_for_articles.html.erb:45: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+...r.append=( if @article == nil );@output_buffer.safe_append='
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_header_menu_for_articles.html.erb:47: syntax error, unexpected keyword_end
+'.freeze;@output_buffer.append=( end );@output_buffer.safe_append='
+                                    ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_header_menu_for_articles.html.erb:72: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_header_menu_for_articles.html.erb:74: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-10-24T00:59:16.059672 #4390] DEBUG -- : ["app/views/articles/index.html.erb:4:in `_app_views_articles_index_html_erb___2057986784686732350_70363949036760'"]
+D, [2015-10-24T00:59:34.049692 #4390] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_header_menu_for_articles.html.erb:45: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+...pend=( if @article.equal? nil );@output_buffer.safe_append='
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_header_menu_for_articles.html.erb:47: syntax error, unexpected keyword_end
+'.freeze;@output_buffer.append=( end );@output_buffer.safe_append='
+                                    ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_header_menu_for_articles.html.erb:72: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_header_menu_for_articles.html.erb:74: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-10-24T00:59:34.051171 #4390] DEBUG -- : ["app/views/articles/index.html.erb:4:in `_app_views_articles_index_html_erb___2057986784686732350_70363949036760'"]
+D, [2015-10-24T00:59:40.918774 #4390] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_header_menu_for_articles.html.erb:45: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+...append=( if @article.eql? nil );@output_buffer.safe_append='
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_header_menu_for_articles.html.erb:47: syntax error, unexpected keyword_end
+'.freeze;@output_buffer.append=( end );@output_buffer.safe_append='
+                                    ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_header_menu_for_articles.html.erb:72: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/_header_menu_for_articles.html.erb:74: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-10-24T00:59:40.920133 #4390] DEBUG -- : ["app/views/articles/index.html.erb:4:in `_app_views_articles_index_html_erb___2057986784686732350_70363949036760'"]
+D, [2015-10-24T23:16:45.690893 #4390] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/users/show.html.erb:42: syntax error, unexpected ')', expecting ':'
+....append=( "yes" ? @user.admin );@output_buffer.safe_append='...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/users/show.html.erb:48: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/users/show.html.erb:50: syntax error, unexpected keyword_end, expecting ')'
+D, [2015-10-24T23:16:45.699393 #4390] DEBUG -- : []
+D, [2015-10-25T00:37:58.175100 #4390] DEBUG -- : undefined method `upper_case' for "car":String
+D, [2015-10-25T00:37:58.176219 #4390] DEBUG -- : ["app/views/articles/index.html.erb:29:in `block in _app_views_articles_index_html_erb___2057986784686732350_70363940994960'", "app/views/articles/index.html.erb:24:in `_app_views_articles_index_html_erb___2057986784686732350_70363940994960'"]
+D, [2015-10-25T00:38:32.448170 #4390] DEBUG -- : undefined method `capitilize' for "car":String
+D, [2015-10-25T00:38:32.449654 #4390] DEBUG -- : ["app/views/articles/index.html.erb:29:in `block in _app_views_articles_index_html_erb___2057986784686732350_70364006431600'", "app/views/articles/index.html.erb:24:in `_app_views_articles_index_html_erb___2057986784686732350_70364006431600'"]
+D, [2015-10-25T00:42:11.441009 #4390] DEBUG -- : Missing partial articles/_comment, application/_comment with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views"
+  * "/Users/a1/.rvm/gems/ruby-2.2.2/gems/devise-3.5.2/app/views"
+
+D, [2015-10-25T00:42:11.444153 #4390] DEBUG -- : ["app/views/articles/show.html.erb:20:in `_app_views_articles_show_html_erb___3424622482367081796_70363969735840'"]
+D, [2015-10-28T18:20:28.700525 #16467] DEBUG -- : Asset filtered out and will not be served: add `Rails.application.config.assets.precompile += %w( articles_style.css )` to `config/initializers/assets.rb` and restart your server
+D, [2015-10-28T18:20:28.703583 #16467] DEBUG -- : ["app/views/articles/index.html.erb:1:in `_app_views_articles_index_html_erb___947235600327453558_70179255693840'"]
+D, [2015-10-28T18:20:29.191134 #16467] DEBUG -- : Asset filtered out and will not be served: add `Rails.application.config.assets.precompile += %w( articles_style.css )` to `config/initializers/assets.rb` and restart your server
+D, [2015-10-28T18:20:29.192425 #16467] DEBUG -- : ["app/views/articles/index.html.erb:1:in `_app_views_articles_index_html_erb___947235600327453558_70179255693840'"]
+D, [2015-10-28T18:20:52.727704 #16467] DEBUG -- : Asset filtered out and will not be served: add `Rails.application.config.assets.precompile += %w( articles_style.css )` to `config/initializers/assets.rb` and restart your server
+D, [2015-10-28T18:20:52.728917 #16467] DEBUG -- : ["app/views/articles/index.html.erb:1:in `_app_views_articles_index_html_erb___947235600327453558_70179255693840'"]
+D, [2015-10-28T20:30:29.351039 #16467] DEBUG -- : First argument in form cannot contain nil or be empty
+D, [2015-10-28T20:30:29.352003 #16467] DEBUG -- : ["app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___729003455529081401_70179285722440'", "app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179286579640'"]
+D, [2015-10-28T20:30:51.511839 #16467] DEBUG -- : First argument in form cannot contain nil or be empty
+D, [2015-10-28T20:30:51.513090 #16467] DEBUG -- : ["app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___729003455529081401_70179285722440'", "app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179325460340'"]
+D, [2015-10-28T20:30:54.704025 #16467] DEBUG -- : First argument in form cannot contain nil or be empty
+D, [2015-10-28T20:30:54.704972 #16467] DEBUG -- : ["app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___729003455529081401_70179285722440'", "app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179325460340'"]
+D, [2015-10-28T20:32:24.767065 #16467] DEBUG -- : undefined method `title' for nil:NilClass
+D, [2015-10-28T20:32:24.768663 #16467] DEBUG -- : ["app/views/articles/_header_menu.html.erb:47:in `_app_views_articles__header_menu_html_erb___1765436974411520258_70179256116160'", "app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179264307300'"]
+D, [2015-10-28T20:33:33.946174 #16467] DEBUG -- : The partial name () is not a valid Ruby identifier; make sure your partial name starts with underscore, and is followed by any combination of letters, numbers and underscores.
+D, [2015-10-28T20:33:33.947175 #16467] DEBUG -- : ["app/views/articles/index.html.erb:45:in `_app_views_articles_index_html_erb___947235600327453558_70179327021060'"]
+D, [2015-10-28T20:34:47.166577 #16467] DEBUG -- : First argument in form cannot contain nil or be empty
+D, [2015-10-28T20:34:47.167524 #16467] DEBUG -- : ["app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179321091860'"]
+D, [2015-10-28T20:35:32.412085 #16467] DEBUG -- : undefined method `name=' for nil:NilClass
+D, [2015-10-28T20:35:32.413295 #16467] DEBUG -- : ["app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179328408580'"]
+D, [2015-10-28T20:35:40.665814 #16467] DEBUG -- : undefined method `title=' for nil:NilClass
+D, [2015-10-28T20:35:40.666712 #16467] DEBUG -- : ["app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179322349860'"]
+D, [2015-10-28T20:36:19.849417 #16467] DEBUG -- : undefined method `title=' for nil:NilClass
+D, [2015-10-28T20:36:19.850357 #16467] DEBUG -- : ["app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179251902280'"]
+D, [2015-10-28T20:38:04.144581 #16467] DEBUG -- : undefined local variable or method `create_popup_path' for #<#<Class:0x007fa7cbb808d8>:0x007fa7c97efd88>
+D, [2015-10-28T20:38:04.145504 #16467] DEBUG -- : ["app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179308402080'"]
+D, [2015-10-28T20:39:00.004381 #16467] DEBUG -- : Missing partial articles/_new, application/_new with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views"
+  * "/Users/a1/.rvm/gems/ruby-2.2.2/gems/devise-3.5.2/app/views"
+
+D, [2015-10-28T20:39:00.005493 #16467] DEBUG -- : ["app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179323808000'"]
+D, [2015-10-28T20:39:30.453194 #16467] DEBUG -- : First argument in form cannot contain nil or be empty
+D, [2015-10-28T20:39:30.454421 #16467] DEBUG -- : ["app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___729003455529081401_70179285722440'", "app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179322048480'"]
+D, [2015-10-28T20:40:36.512411 #16467] DEBUG -- : First argument in form cannot contain nil or be empty
+D, [2015-10-28T20:40:36.513522 #16467] DEBUG -- : ["app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___729003455529081401_70179285722440'", "app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179322048480'"]
+D, [2015-10-28T20:41:02.905922 #16467] DEBUG -- : First argument in form cannot contain nil or be empty
+D, [2015-10-28T20:41:02.906869 #16467] DEBUG -- : ["app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___729003455529081401_70179285722440'", "app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179322048480'"]
+D, [2015-10-28T20:41:16.703022 #16467] DEBUG -- : First argument in form cannot contain nil or be empty
+D, [2015-10-28T20:41:16.704004 #16467] DEBUG -- : ["app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___729003455529081401_70179285722440'", "app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179322048480'"]
+D, [2015-10-28T20:43:21.520901 #16467] DEBUG -- : First argument in form cannot contain nil or be empty
+D, [2015-10-28T20:43:21.521857 #16467] DEBUG -- : ["app/views/articles/_form.html.erb:1:in `_app_views_articles__form_html_erb___729003455529081401_70179285722440'", "app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179306762360'"]
+D, [2015-10-28T20:45:43.819780 #16467] DEBUG -- : Missing partial articles/_new, application/_new with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views"
+  * "/Users/a1/.rvm/gems/ruby-2.2.2/gems/devise-3.5.2/app/views"
+
+D, [2015-10-28T20:45:43.820917 #16467] DEBUG -- : ["app/views/articles/_create_article_popup.html.erb:2:in `_app_views_articles__create_article_popup_html_erb___2876217987284407941_70179284550640'", "app/views/articles/index.html.erb:45:in `_app_views_articles_index_html_erb___947235600327453558_70179285761540'"]
+D, [2015-10-28T20:45:54.881805 #16467] DEBUG -- : undefined method `redirect_to' for #<#<Class:0x007fa7cb553140>:0x007fa7c9767348>
+D, [2015-10-28T20:45:54.883582 #16467] DEBUG -- : ["app/views/articles/_create_article_popup.html.erb:2:in `_app_views_articles__create_article_popup_html_erb___2876217987284407941_70179322549680'", "app/views/articles/index.html.erb:45:in `_app_views_articles_index_html_erb___947235600327453558_70179285761540'"]
+D, [2015-10-28T20:46:57.429174 #16467] DEBUG -- : undefined method `redirect_to' for #<#<Class:0x007fa7cb553140>:0x007fa7c92faa80>
+D, [2015-10-28T20:46:57.430249 #16467] DEBUG -- : ["app/views/articles/_create_article_popup.html.erb:2:in `_app_views_articles__create_article_popup_html_erb___2876217987284407941_70179305115700'", "app/views/articles/index.html.erb:45:in `_app_views_articles_index_html_erb___947235600327453558_70179285761540'"]
+D, [2015-10-28T20:47:05.228146 #16467] DEBUG -- : undefined method `errors' for nil:NilClass
+D, [2015-10-28T20:47:05.229105 #16467] DEBUG -- : ["app/views/articles/_create_article_popup.html.erb:34:in `block in _app_views_articles__create_article_popup_html_erb___2876217987284407941_70179257184480'", "app/views/articles/_create_article_popup.html.erb:5:in `_app_views_articles__create_article_popup_html_erb___2876217987284407941_70179257184480'", "app/views/articles/index.html.erb:45:in `_app_views_articles_index_html_erb___947235600327453558_70179285761540'"]
+D, [2015-10-28T20:47:26.341541 #16467] DEBUG -- : undefined method `errors' for nil:NilClass
+D, [2015-10-28T20:47:26.342506 #16467] DEBUG -- : ["app/views/articles/_create_article_popup.html.erb:34:in `block in _app_views_articles__create_article_popup_html_erb___2876217987284407941_70179291239920'", "app/views/articles/_create_article_popup.html.erb:5:in `_app_views_articles__create_article_popup_html_erb___2876217987284407941_70179291239920'", "app/views/articles/index.html.erb:45:in `_app_views_articles_index_html_erb___947235600327453558_70179285761540'"]
+D, [2015-10-28T20:47:37.192668 #16467] DEBUG -- : undefined method `errors' for nil:NilClass
+D, [2015-10-28T20:47:37.193691 #16467] DEBUG -- : ["app/views/articles/_create_article_popup.html.erb:34:in `block in _app_views_articles__create_article_popup_html_erb___2876217987284407941_70179291615920'", "app/views/articles/_create_article_popup.html.erb:5:in `_app_views_articles__create_article_popup_html_erb___2876217987284407941_70179291615920'", "app/views/articles/index.html.erb:45:in `_app_views_articles_index_html_erb___947235600327453558_70179285761540'"]
+D, [2015-10-28T20:53:17.606926 #16467] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:9: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+... "Create new article", render 'create_article_popup', onclic...
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:9: syntax error, unexpected ',', expecting ')'
+... render 'create_article_popup', onclick='overlay()' );@outpu...
+...                               ^
+D, [2015-10-28T20:53:17.607988 #16467] DEBUG -- : []
+D, [2015-10-28T21:16:28.308017 #16467] DEBUG -- : /Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:34: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+...nd=( link_to "Delete", render 'index', class: 'delete',
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:34: syntax error, unexpected ',', expecting ')'
+...nk_to "Delete", render 'index', class: 'delete',
+...                               ^
+/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views/articles/index.html.erb:34: syntax error, unexpected ',', expecting ')'
+D, [2015-10-28T21:16:28.309067 #16467] DEBUG -- : []
+D, [2015-10-28T21:32:50.723397 #16467] DEBUG -- : Missing partial articles/_popup_header, application/_popup_header with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/a1/Desktop/Igor/Work/ruby_projects/blog/app/views"
+  * "/Users/a1/.rvm/gems/ruby-2.2.2/gems/devise-3.5.2/app/views"
+
+D, [2015-10-28T21:32:50.724722 #16467] DEBUG -- : ["app/views/articles/_create_article_popup.html.erb:1:in `_app_views_articles__create_article_popup_html_erb___2876217987284407941_70179323981480'", "app/views/articles/index.html.erb:44:in `_app_views_articles_index_html_erb___947235600327453558_70179333639940'"]
+D, [2015-12-02T09:18:09.611286 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T09:18:09.612533 #64745] DEBUG -- : []
+D, [2015-12-02T09:18:37.425577 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T09:18:37.426283 #64745] DEBUG -- : []
+D, [2015-12-02T09:19:51.537298 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T09:19:51.538639 #64745] DEBUG -- : []
+D, [2015-12-02T09:23:34.809897 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T09:23:34.811168 #64745] DEBUG -- : []
+D, [2015-12-02T09:25:02.815950 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T09:25:02.816840 #64745] DEBUG -- : []
+D, [2015-12-02T09:29:07.734909 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T09:29:07.735695 #64745] DEBUG -- : []
+D, [2015-12-02T09:32:15.726998 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T09:32:15.727620 #64745] DEBUG -- : []
+D, [2015-12-02T09:34:49.465367 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T09:34:49.466193 #64745] DEBUG -- : []
+D, [2015-12-02T09:35:46.985297 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T09:35:46.985996 #64745] DEBUG -- : []
+D, [2015-12-02T11:37:40.347854 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T11:37:40.348988 #64745] DEBUG -- : []
+D, [2015-12-02T11:40:25.199490 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T11:40:25.200671 #64745] DEBUG -- : []
+D, [2015-12-02T12:22:39.280276 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T12:22:39.281725 #64745] DEBUG -- : []
+D, [2015-12-02T12:22:52.329773 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T12:22:52.330632 #64745] DEBUG -- : []
+D, [2015-12-02T12:23:04.177123 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T12:23:04.178281 #64745] DEBUG -- : []
+D, [2015-12-02T12:28:06.185769 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T12:28:06.187409 #64745] DEBUG -- : []
+D, [2015-12-02T12:29:25.342770 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T12:29:25.350098 #64745] DEBUG -- : []
+D, [2015-12-02T12:30:10.492618 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T12:30:10.494122 #64745] DEBUG -- : []
+D, [2015-12-02T12:30:45.779246 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T12:30:45.781191 #64745] DEBUG -- : []
+D, [2015-12-02T12:32:21.662916 #64745] DEBUG -- : ActionController::InvalidAuthenticityToken
+D, [2015-12-02T12:32:21.665571 #64745] DEBUG -- : []
