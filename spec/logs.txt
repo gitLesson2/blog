@@ -1,0 +1,3 @@
+[roman_novosad_feature_2 dc48bcb] Added spec/logs.txt
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 spec/logs.txt
