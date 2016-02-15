@@ -1,0 +1,24 @@
+commit f3beda3397c962dc3bb93dedb88134d45fdb063c
+Author: yioteh <rtoor.3io7@gmail.com>
+Date:   Tue Feb 16 00:09:20 2016 +0200
+
+    created logs.txt
+
+commit 7124a9780bb26d668c605679f4e0199ea23d3beb
+Author: yioteh <rtoor.3io7@gmail.com>
+Date:   Mon Feb 15 23:53:49 2016 +0200
+
+    uncommented string
+
+commit 91a17bdfe8c1fc83bf629588232842c9e47bb092
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:38:20 2016 +0200
+
+    Comment order
+
+commit 6471137a0d1aba07e65350b6ab98a74613e23c61
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:32:45 2016 +0200
+
+    Init commit
+
