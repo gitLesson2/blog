@@ -1,0 +1,17 @@
+commit 88df3ba0680c1593c2fa563f3834d48ee7c4ddc4
+Author: Anzhelika Zhyvotova <azhyvotova@AZs-MacBook-Pro.local>
+Date:   Mon Feb 15 21:48:09 2016 +0200
+
+    uncommented config.order row
+
+commit 91a17bdfe8c1fc83bf629588232842c9e47bb092
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:38:20 2016 +0200
+
+    Comment order
+
+commit 6471137a0d1aba07e65350b6ab98a74613e23c61
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:32:45 2016 +0200
+
+    Init commit
