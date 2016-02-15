@@ -1,0 +1,11 @@
+pbandak@pbandak-Vostro-3558:~/Documents/Pavlina/gitLesson2/blog/spec$ git show 03ccf0d8ee10fd982653f1d54c17df290c532765
+commit 03ccf0d8ee10fd982653f1d54c17df290c532765
+Author: pavlysechka <pavlysechka@gmail.com>
+Date:   Mon Feb 15 14:57:12 2016 +0200
+
+    Add logs.txt
+
+diff --git a/spec/logs.txt b/spec/logs.txt
+new file mode 100644
+index 0000000..e69de29
+
