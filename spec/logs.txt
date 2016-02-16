@@ -1,0 +1,11 @@
+commit 224b0f0aaa63d575f1595cc53751900156254596
+Author: YuliaK <ykulbachka@cogniance.com>
+Date:   Wed Feb 17 01:02:52 2016 +0200
+
+    Added logs.txt file
+
+commit 6471137a0d1aba07e65350b6ab98a74613e23c61
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:32:45 2016 +0200
+
+    Init commit
