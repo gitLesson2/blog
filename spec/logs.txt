@@ -1,0 +1,23 @@
+commit cd24d39b2c9299999fed46a83f9ceef472512187
+Author: [Kostiantyn Pryschepa] <[kpryschepa@cogniance.com]>
+Date:   Tue Feb 16 22:49:43 2016 +0200
+
+    logs.txt created
+
+commit 44a2e152bcc5a61e2963eda8355983bba501b598
+Author: [Kostiantyn Pryschepa] <[kpryschepa@cogniance.com]>
+Date:   Tue Feb 16 22:46:31 2016 +0200
+
+    spec_helper.rb row uncommented
+
+commit 91a17bdfe8c1fc83bf629588232842c9e47bb092
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:38:20 2016 +0200
+
+    Comment order
+
+commit 6471137a0d1aba07e65350b6ab98a74613e23c61
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:32:45 2016 +0200
+
+    Init commit
