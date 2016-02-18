@@ -1,0 +1,18 @@
+commit 59ce937af9fa0209d7088e40fe7d9c0454461d9b
+Author: KyryloT <ktoporikov@cogniance.com>
+Date:   Thu Feb 18 12:15:29 2016 +0200
+
+    add logs.txt file
+
+commit 91a17bdfe8c1fc83bf629588232842c9e47bb092
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:38:20 2016 +0200
+
+    Comment order
+
+commit 6471137a0d1aba07e65350b6ab98a74613e23c61
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:32:45 2016 +0200
+
+    Init commit
+
