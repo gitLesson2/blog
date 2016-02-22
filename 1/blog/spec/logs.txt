@@ -1,0 +1,5 @@
+commit f5766e3d13247575ef99395b3e9cfcc016702eec
+Author: PerfectionPursuit <max.voitko@gmail.com>
+Date:   Tue Feb 23 01:19:31 2016 +0200
+
+    add logs.txt
