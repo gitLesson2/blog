@@ -1,0 +1,11 @@
+commit ffc2e0520ad69dbd6a6811998624d7c0d21e2876
+Author: PerfectionPursuit <max.voitko@gmail.com>
+Date:   Mon Feb 22 16:58:17 2016 +0200
+
+    change test.txt
+
+commit 0a98a70ed91cde3f2bd6c9c99804759e26537d8e
+Author: PerfectionPursuit <max.voitko@gmail.com>
+Date:   Mon Feb 22 15:47:04 2016 +0200
+
+    add test.txt and log.txt
