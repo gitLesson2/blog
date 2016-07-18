@@ -1,0 +1,4 @@
+$ git commit -m "Has been added logs.txt"
+[oleksandr_onufrienko_feature_2 253145d] Has been added logs.txt
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+  create mode 100644 spec/logs.txt
