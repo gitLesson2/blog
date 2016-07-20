@@ -1,0 +1,6 @@
+commit 199f59b25ff07f42f2a8fbe904b652c3f1a32b46
+Author: Artemij Semenov <asemenov@cogniance.com>
+Date:   Wed Jul 20 12:26:17 2016 +0300
+
+    logfile
+
