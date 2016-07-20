@@ -1,1 +1,36 @@
 
+commit cec584e559fc8de376d73d52e5458ddb55c86c82
+Author: Igor Onufryk <ionufryk@xogniance.com>
+Date:   Wed Jul 20 22:36:48 2016 +0300
+
+    added logs
+
+commit a297151327b4f648ee32ae211ca8c374d5f6762f
+Author: Igor Onufryk <ionufryk@xogniance.com>
+Date:   Wed Jul 20 22:19:59 2016 +0300
+
+    added feature_1
+
+commit 878272bd3a2e5b48cf3870419c9f60eee9e0b918
+Author: Igor Onufryk <ionufryk@xogniance.com>
+Date:   Mon Jul 18 17:26:22 2016 +0300
+
+    restored comment in spec_helper
+
+commit 67dbd5744727dbd420164aefe9593e3e222764b1
+Author: Igor Onufryk <ionufryk@xogniance.com>
+Date:   Mon Jul 18 16:59:58 2016 +0300
+
+    added feature_1
+
+commit 91a17bdfe8c1fc83bf629588232842c9e47bb092
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:38:20 2016 +0200
+
+    Comment order
+
+commit 6471137a0d1aba07e65350b6ab98a74613e23c61
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:32:45 2016 +0200
+
+    Init commit
