@@ -1,0 +1,35 @@
+commit 15ddfb249ba643980dcf4391bbf494e5a571c9dd
+Author: Polina Karpenko <pkarpenko@cogniance.com>
+Date:   Wed Jul 20 15:41:56 2016 +0300
+
+    logs added
+
+commit 438c5ad0b5ce6ad62f78bb1ed1a946971c6d2c00
+Author: Polina Karpenko <pkarpenko@cogniance.com>
+Date:   Wed Jul 20 15:37:35 2016 +0300
+
+    spec helper updated
+
+commit 878272bd3a2e5b48cf3870419c9f60eee9e0b918
+Author: Igor Onufryk <ionufryk@xogniance.com>
+Date:   Mon Jul 18 17:26:22 2016 +0300
+
+    restored comment in spec_helper
+
+commit 67dbd5744727dbd420164aefe9593e3e222764b1
+Author: Igor Onufryk <ionufryk@xogniance.com>
+Date:   Mon Jul 18 16:59:58 2016 +0300
+
+    added feature_1
+
+commit 91a17bdfe8c1fc83bf629588232842c9e47bb092
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:38:20 2016 +0200
+
+    Comment order
+
+commit 6471137a0d1aba07e65350b6ab98a74613e23c61
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:32:45 2016 +0200
+
+    Init commit
