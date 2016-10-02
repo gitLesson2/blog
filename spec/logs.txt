@@ -1,0 +1,6 @@
+commit 7212f817b4e2b9e445866fd70fd6e24b7246fb0a
+Author: KoljaDemba <kolja_demba@gmail.com>
+Date:   Sun Oct 2 16:02:26 2016 +0300
+
+    Commit logs.txt
+
