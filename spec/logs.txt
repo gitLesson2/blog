@@ -1,0 +1,41 @@
+commit 30413e32b00e6ac986afc4933473e0a74de3e733 (HEAD -> iaroslava_kamenska_feature_2)
+Author: ikamenska <ikamenska@cogninance.com>
+Date:   Fri Nov 24 23:34:12 2017 +0200
+
+    new file
+
+commit 6c799259632ebb31f8171137bcf80698d8d98061 (origin/iaroslava_kamenska_feature_1, iaroslava_kamenska_feature_1)
+Author: ikamenska <ikamenska@cogninance.com>
+Date:   Fri Nov 24 23:24:04 2017 +0200
+
+    comment out next row config.order = :random
+
+commit c82f367d10fa57a55c9ff07cc725a034afbdf8ca (origin/master, origin/HEAD, master)
+Author: Oleksii Kokuiev <okokuiev@cogniance.com>
+Date:   Wed Jul 20 20:48:39 2016 +0300
+
+    Some changes
+
+commit 878272bd3a2e5b48cf3870419c9f60eee9e0b918
+Author: Igor Onufryk <ionufryk@xogniance.com>
+Date:   Mon Jul 18 17:26:22 2016 +0300
+
+    restored comment in spec_helper
+
+commit 67dbd5744727dbd420164aefe9593e3e222764b1
+Author: Igor Onufryk <ionufryk@xogniance.com>
+Date:   Mon Jul 18 16:59:58 2016 +0300
+
+    added feature_1
+
+commit 91a17bdfe8c1fc83bf629588232842c9e47bb092
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:38:20 2016 +0200
+
+    Comment order
+
+commit 6471137a0d1aba07e65350b6ab98a74613e23c61
+Author: IgorN <Igor.nikityuk@gmail.com>
+Date:   Tue Feb 9 19:32:45 2016 +0200
+
+    Init commit
