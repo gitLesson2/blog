@@ -1,0 +1,139 @@
+* 3d1fe2c (HEAD -> davyd_nykytiuk_feature_2) add logs.txt file
+* 97d134c (origin/davyd_nykytiuk_feature_1, davyd_nykytiuk_feature_1) change spec_helper.rb file
+| * 52d0a5e (origin/iaroslava_kamenska_feature_1) Rakefile to ignore
+| * e748ea2 moved Rakefile to ignore
+| * 7756a0a (origin/iaroslava_kamenska_feature_2) logs added
+| * 30413e3 new file
+| * 6c79925 comment out next row config.order = :random
+|/
+* c82f367 (origin/master, origin/HEAD, master) Some changes
+| * 29451ed (origin/Kolja_Dembo_feature_1) Add .gitignore
+| *   4152cab Merge branch 'Kolja_Dembo_feature_2' into Kolja_Dembo_feature_1
+| |\
+| | * 502607f (origin/Kolja_Dembo_feature_2) Commit logs.txt file
+| | * 7212f81 Commit logs.txt
+| |/
+|/|
+| * 289e4c1 Uncomment row
+|/
+| * 563a947 (origin/Igor_Onufryk_feature_1) added gitignore with Rakefile
+| *   c73a6a6 fixed conflict
+| |\
+| | * 003473c added real logs
+| | * f193e1e added logs:
+| * | 82c6f68 (origin/Igor_Onufryk_feature_2) added real logs
+| * | cec584e added logs
+| * | a297151 added feature_1
+|/ /
+| | * e26b28d (origin/polina_karpenko_feature_1) ignored files updated
+| | * 4e8bbc2 ingored files updated
+| | * ec6cf76 logs extracted
+| | * 15ddfb2 logs added
+| | * 438c5ad spec helper updated
+| |/
+|/|
+| | * 4e94562 (origin/olga_kravtsova_feature_1) Moving rakefile into ignore
+| | * cf0ac3c (origin/olga_kravtsova_feature_2) Added commit logs to logs file
+| | * 7b66174 Added logs file
+| | * b36b959 Added random config order
+| |/
+|/|
+| | * 962e403 (origin/Artemiy_Semenov_feature_1) ignoring
+| | * d6860fa (origin/Artemiy_Semenov_feature_2) commit logs added
+| | * 199f59b logfile
+| | * d13c2aa uncommented row
+| |/
+|/|
+| | * 30af5d7 (origin/esubbotina_feature_1) removing Rakefile from version control
+| | * 3686e7d git cache cleared
+| | * 2992fed (origin/esubbotina_feature_2) third commit
+| | * 7e35ada second commit
+| | * b4e4425 first commit
+| | | * cc99455 (origin/yulia_kudrynska_feature_2) action 9. feature_2
+| | | * 71af6c2 action 7. feature_2
+| | | * 9a10e64 (origin/yulia_kudrynska_feature_1) action 4. feature_1
+| | |/
+| | | * ecb86a4 (origin/oleksandr_onufrienko_feature_1) ignore Rakefile
+| | | * 742ef87 (origin/oleksandr_onufrienko_feature_2) logs.txt has been updated
+| | | * 253145d Has been added logs.txt
+| | | * cc589af Uncomment line order
+| |_|/
+|/| |
+* | | 878272b restored comment in spec_helper
+|/ /
+* | 67dbd57 added feature_1
+|/
+| * b8277e5 (origin/borys_nazaruk_feature_2) add logs.txt file
+|/
+| * a87ca99 (origin/borys_nazaruk_feature_1) uncomment row "config.order=:random"
+|/
+| * d113f32 (origin/max_voitko_feature_1) change spec_helper.rb
+| * 164b8ab ignore Rakefile
+| * d9447fa paste logs in logs.txt
+| * 09cab8a create logs.txt
+| * b852d49 paste logs in logs.txt
+| * f5766e3 add logs.txt
+| * 2ea20ad add tags command, log
+| * ffc2e05 change test.txt
+| * 0a98a70 add test.txt and log.txt
+| * fee37ad (origin/kyrylo_toporikov_feature_1) ignore Rakefile
+| *   14aa52a Merge branch 'kyrylo_toporikov_feature_2' into kyrylo_toporikov_feature_1
+| |\
+| | * 5c89a65 (origin/kyrylo_toporikov_feature_2) add logs to log.txt
+| | * 59ce937 add logs.txt file
+| |/
+|/|
+| * 223cd56 uncomment row “config.order = :random”
+|/
+| * d370aeb (origin/Kostiantyn_Pryschepa_feature_1) .gitignore file pushed to remote repo
+| * fbbbb0b Rakefile has been added to .gitignore
+| * 42a95af (origin/Kostiantyn_Pryschepa_feature_2) logs has been saved to logs.txt
+| * cd24d39 logs.txt created
+| * 44a2e15 spec_helper.rb row uncommented
+|/
+| * 9b08795 (origin/yulia_kulbachka_feature_1) Added Rakefile to ignore list
+| * 75b7f8b Added logs.txt file
+| * b307a21 (origin/yulia_kulbachka_feature_2) Added commit log to logs.txt file
+| * 224b0f0 Added logs.txt file
+| * 9f86b26 Uncommented config.order in the spec_helper.rb
+|/
+| * e9050f8 (origin/artur_verdiev_feature_1) moved Rakefile to ignore
+| * 0c9986c (origin/artur_verdiev_feature_2) updated logs.txt
+| * f3beda3 created logs.txt
+| * 7124a97 uncommented string
+|/
+| * 27ea549 (origin/vitalik_garan_feature_1) added gitignore itself and Rakefile to gitingonre
+| *   6de3845 wrote new  commit log into logs.txt
+| |\
+| | * 7261e1f (origin/vitalik_garan_feature_2) wrote commit log into logs.txt
+| | * 0adaeb5 added logs.txt
+| |/
+|/|
+| * 80839fa uncommented config.order in spec_helper.rb
+|/
+| * 9c3a9a8 (origin/Ivan_Pustovar_feature_1) Rakefile moved into ignore
+| * e5560e9 (origin/Ivan_Pustovar_feature_2) adding changes to logs.txt file
+| * 93f695c adding empty logs.txt file
+| * 89c4f65 first commit on Ivan_Pustovar_feature_1
+|/
+| * 3ed0f28 (origin/anzhelika_zhyvotova_feature_1) moved Rakefile to ignore
+| * 404a0e6 (origin/anzhelika_zhyvotova_feature_2) added logs.txt with commits history
+| * 88df3ba uncommented config.order row
+|/
+| * 83f68bc (origin/Pavlina_Bandak_feature_1) Move RakeFile to gitignore
+| | *   3e3c3c6 (origin/Pavlina_Bandak_feature_2) Merge branch 'Pavlina_Bandak_feature_1' into Pavlina_Bandak_feature_2
+| | |\
+| | |/
+| |/|
+| * | 45bc9bf Uncomment config.order = :random
+|/ /
+| * 53d4371 Commit logs are added to logs.txt
+| * 03ccf0d Add logs.txt
+|/
+| * c70aff3 (origin/roman_novosad_feature_1) Ignore Rakefile
+| * e9611fa (origin/roman_novosad_feature_2) Added commit logs to spec/logs.txt
+| * dc48bcb Added spec/logs.txt
+| * da4cbb9 Uncommented 'config' in spec_helper.rb
+|/
+* 91a17bd Comment order
+* 6471137 Init commit
